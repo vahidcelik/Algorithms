@@ -1,0 +1,6 @@
+C:\Users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_MinMaxSum\bin\Debug\HackerRank_MinMaxSum.exe.config
+C:\Users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_MinMaxSum\bin\Debug\HackerRank_MinMaxSum.exe
+C:\Users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_MinMaxSum\bin\Debug\HackerRank_MinMaxSum.pdb
+C:\Users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_MinMaxSum\obj\Debug\HackerRank_MinMaxSum.exe
+C:\Users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_MinMaxSum\obj\Debug\HackerRank_MinMaxSum.pdb
+C:\Users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_MinMaxSum\obj\Debug\HackerRank_MinMaxSum.csprojResolveAssemblyReference.cache

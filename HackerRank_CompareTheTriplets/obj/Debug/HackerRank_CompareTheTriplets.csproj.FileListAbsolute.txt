@@ -1,0 +1,6 @@
+c:\users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_CompareTheTriplets\bin\Debug\HackerRank_CompareTheTriplets.exe.config
+c:\users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_CompareTheTriplets\bin\Debug\HackerRank_CompareTheTriplets.exe
+c:\users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_CompareTheTriplets\bin\Debug\HackerRank_CompareTheTriplets.pdb
+c:\users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_CompareTheTriplets\obj\Debug\HackerRank_CompareTheTriplets.csprojResolveAssemblyReference.cache
+c:\users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_CompareTheTriplets\obj\Debug\HackerRank_CompareTheTriplets.exe
+c:\users\vahid\documents\visual studio 2017\Projects\HackerRank_CompareTheTriplets\HackerRank_CompareTheTriplets\obj\Debug\HackerRank_CompareTheTriplets.pdb
