@@ -6,5 +6,5 @@
 /.vs/HackerRank_CompareTheTriplets/v15/Server/sqlite3/storage.ide-wal
 *.ide-wal
 
-/HackerRank_MinMaxSum/bin
-/HackerRank_CompareTheTriplets/bin
+/HackerRank_MinMaxSum/bin/*
+/HackerRank_CompareTheTriplets/bin/*
